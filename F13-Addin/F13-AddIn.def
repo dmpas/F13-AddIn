@@ -1,0 +1,6 @@
+LIBRARY    "F13-AddIn"
+
+EXPORTS
+GetClassObject
+DestroyObject
+GetClassNames

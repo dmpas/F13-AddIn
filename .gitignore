@@ -1,0 +1,35 @@
+# IDE files
+*.layout
+*.depend
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+/F13-Addin/*.sdf
+/F13-Addin/*.user
+/F13-Addin/Debug
+/F13-Addin/Debug/*
+/F13-Addin/ipch
+/F13-Addin/ipch/*
+/F13-Addin/Release
+/F13-Addin/Release/*
+/obj
+/F13-Addin/*.suo
